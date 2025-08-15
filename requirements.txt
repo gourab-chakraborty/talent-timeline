@@ -1,6 +1,5 @@
 streamlit==1.36.0
 pandas==2.2.2
 plotly==5.16.0
-sqlalchemy==2.0.22
 python-dateutil==2.9.0.post0
 numpy==1.26.4
